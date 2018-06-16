@@ -1,1 +1,1 @@
-worker: node ./web/src/index.html
+worker: node ./src/index.ts
